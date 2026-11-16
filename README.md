@@ -45,7 +45,7 @@ launchctl print gui/$(id -u)/xyz.ignoresolutions.dockposition.LaunchAgent
 
 Monitor logs from the userspace agent:
 ```
-log stream --predicate 'subsystem == "xyz.ignoresolutions.dockposition"'
+log stream --predicate 'subsystem == "xyz.ignoresolutions.dockposition.agent"'
 ```
 
 ## License
