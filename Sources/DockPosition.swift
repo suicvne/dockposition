@@ -1,6 +1,7 @@
-// DockPosition
-// Copyright (c) 2026 Mike Santiago
+// Copyright (c) 2026 Ignore Solutions
+// SPDX-License-Identifier: MIT
 //
+// DockPosition
 // Modifies dock orientation based on display state.
 // The dock orientations are compiled into the executable.
 // Change these by modifying gInternalOnlyOrientation and gExternalConnectedOrientation.

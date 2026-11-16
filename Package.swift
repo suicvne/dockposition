@@ -1,4 +1,6 @@
 // swift-tools-version: 5.9
+// Copyright (c) 2026 Ignore Solutions
+// SPDX-License-Identifier: MIT
 
 import PackageDescription;
 
